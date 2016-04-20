@@ -1,0 +1,14 @@
+layout_spectrum: 0.915112
+typography_spectrum: 0.9104478
+color:
+  saturation: 0.8139239
+  lightness: 0.7173507
+  brandStrength: 0.8469136
+  brandColors:
+    - '#527DC1'
+    - '#2B0F0C'
+    - '#818C16'
+    - '#B1CFEF'
+    - '#FBFF9F'
+  rhythmicContrast: 0.5004664
+name: MiSite
